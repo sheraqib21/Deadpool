@@ -152,7 +152,7 @@ const styles = StyleSheet.create({
         fontSize: 48, // Bigger for bold impact
         fontWeight: 'bold',
         color: '#E50914', // Bright red, inspired by Deadpool
-        fontFamily: 'sans-serif-condensed', // Use a bold system font
+        fontFamily: 'badaboom-bb.reguler.ttf', // Ensure this matches the name inside the TTF file
         textTransform: 'uppercase', // Make all letters uppercase
         letterSpacing: 4, // Add letter spacing for a more stylized look
         textShadowColor: '#000', // Dark shadow for depth effect
